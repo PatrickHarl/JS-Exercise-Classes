@@ -271,7 +271,7 @@ while (student.grade <= 70)
   console.log(student.graduate());
 }
 
-
+//completed stretch challenge
 ///////// END OF CHALLENGE /////////
 ///////// END OF CHALLENGE /////////
 ///////// END OF CHALLENGE /////////
